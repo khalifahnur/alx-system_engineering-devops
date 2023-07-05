@@ -9,4 +9,5 @@ mkdir : to make directory.
 mv :used for moving files.
 rm : too remove a file.
 rmdir : to remove a directory.
+cd ..: to prevoius file/folder.
 
