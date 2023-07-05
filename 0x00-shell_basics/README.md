@@ -10,4 +10,5 @@ mv :used for moving files.
 rm : too remove a file.
 rmdir : to remove a directory.
 cd ..: to prevoius file/folder.
+cp -rua *.html ../ : is used to copy all files ending with .html and copying it to the parent directory without copying the files that were available.
 
