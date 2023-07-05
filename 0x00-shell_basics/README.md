@@ -8,3 +8,5 @@ ls -laN : To display the contents of the current directory in long format, inclu
 mkdir : to make directory.
 mv :used for moving files.
 rm : too remove a file.
+rmdir : to remove a directory.
+
