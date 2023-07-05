@@ -6,3 +6,4 @@ ls -l : list all working files in long format.
 ls -la : list all files including the idden files in long format.
 ls -laN : To display the contents of the current directory in long format, including user and group IDs displayed numerically,
 mkdir : to make directory.
+mv :used for moving files.
